@@ -17,3 +17,14 @@ Zuma es una plataforma integral diseñada para gestionar proyectos y recursos en
 - **Backend:** Node.js, Express.js
 - **Base de datos:** MongoDB
 - **Otras herramientas:** Docker (para contenedores), Cloudinary (gestión de imágenes), JWT (para autenticación)
+
+## 🌟 Capturas
+![Captura 1](/calendario_mobile.PNG)
+![Captura 2](/clientes_mobile.PNG)
+![Captura 3](/cotizacion.PNG)
+![Captura 4](/formulario.PNG)
+![Captura 5](/login_mobile.PNG)
+![Captura 6](/notas.PNG)
+![Captura 7](/propuestas.PNG)
+![Captura 6](/proveedores_mobile.PNG)
+![Captura 6](/referidos_mobile.PNG)
